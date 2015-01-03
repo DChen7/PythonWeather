@@ -26,4 +26,4 @@ def send_sms(zip_code, number):
 	)
 
 
-send_sms(20742, 2406717497)
+send_sms(20742, phone_number)
